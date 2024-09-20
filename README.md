@@ -4,7 +4,7 @@ Joshua Park\
 Minji Hur\
 Omar Valdez\
 Shemaiah Kamran\
-Tyler Bylsma\
+Tyler Bylsma
 
 Final Vision Statement:
 
