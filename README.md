@@ -1,1 +1,3 @@
-This repo will hold project deliverables, vision statements we will publish for project 1
+“It's easy to lose track of how long your laundry's been running - and sometimes the estimated time remaining on the machines is even wrong. Additionally, all machines may be in use, causing students to take extra trips to the laundry room just to see if a machine is available.
+
+Our solution: A monitoring setup that connects to the laundry machines in university dorms in order to keep track of machines being used, along with their current status. Students will be able to access this information through a mobile app that displays simple information about time remaining for all machines and their availability.”
