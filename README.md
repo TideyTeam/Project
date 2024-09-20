@@ -1,10 +1,10 @@
 Team Members:
-Ivan Widjanarko
-Joshua Park
-Minji Hur
-Omar Valdez
-Shemaiah Kamran
-Tyler Bylsma
+Ivan Widjanarko\
+Joshua Park\
+Minji Hur\
+Omar Valdez\
+Shemaiah Kamran\
+Tyler Bylsma\
 
 Final Vision Statement:
 
