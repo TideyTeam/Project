@@ -1,4 +1,4 @@
-Team Members:
+Team Members:\
 Ivan Widjanarko\
 Joshua Park\
 Minji Hur\
