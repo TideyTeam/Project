@@ -1,11 +1,13 @@
-Team Members:\
-Ivan Widjanarko\
-Joshua Park\
-Minji Hur\
-Omar Valdez\
-Shemaiah Kamran\
-Tyler Bylsma
+Revolutionizing Laundry for Calvin Students: The Calvin Klean Promise
 
-Final Vision Statement:
+How often have you found yourself heading down to the laundry room, only to realize all the machines are in use? Or worse, discovering your freshly washed clothes tossed aside on a dirty machine? These frustrating moments are exactly what the Calvin Klean app aims to eliminate. Our primary customers are Calvin University students who rely on shared laundry services and need a smoother, more efficient way to manage their laundry routines.
 
-How often have you been down to the laundry room only to find out all the machines are being used? Or, how many times have you gone down to the laundry room just to see your laundry on top of a dirty machine? This is exactly why our Tidey Team decided to develop the app, Calvin Klean, that prevents these situations from occurring. As such, our primary target customers are Calvin University students who use community laundry services. The Calvin Klean app is a Laundry Cycle Tracking app that will help you be more efficient and practical in doing your mundane everyday chores. Unlike the timer app where users have to manually track the time for their laundry, our Calvin Klean app will keep track of available machines and automatically detect the remaining time of the machines being used. With Calvin Klean, you'll never have to waste time or deal with laundry frustrations again, as the app ensures a smoother, more efficient laundry experience for all Calvin University students.
+Unlike traditional timer apps where users have to manually track their laundry time, Calvin Klean goes a step further. It not only tracks the availability of machines but also automatically monitors the remaining cycle time of machines in use. With real-time updates and alerts, Calvin Klean ensures that you never waste a trip to the laundry room or have your laundry mishandled again. It’s designed to streamline your laundry experience and ensure an efficient laundry experience for all Calvin University students.
+
+Team Members:
+a) Ivan Widjanarko
+b) Joshua Park
+c) Minji Hur
+d) Omar Valdez
+e) Shemaiah Kamran
+f) Tyler Bylsma
