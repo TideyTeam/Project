@@ -1,10 +1,13 @@
 # Revolutionizing Laundry for Calvin Students: The Calvin Klean Promise
 
-How often have you gone to do laundry only to find all the machines taken? Or worse, finding your clean clothes tossed aside? These frustrating moments are exactly what Calvin Klean is here to fix. Our app is designed for Calvin University students who use shared laundry rooms and need an easier way to manage their laundry.
+How often have you gone to do laundry only to find all the machines taken? Or worse, you find your clean clothes tossed aside? Calvin Klean eliminates these common frustrations for Calvin University students by providing a smarter way to manage shared laundry rooms.
 
-Unlike basic apps that rely on manual tracking such as LaundryView, Calvin Klean goes further. The app tracks machine availability and provides real-time notifications so you’ll know as soon as a washer or dryer becomes free, or your laundry is done. With Calvin Klean, you can skip unnecessary trips and enjoy peace of mind, knowing your clothes are secure and won’t be left unattended.
+Calvin Klean surpasses basic apps like LaundryView by tracking machine availability in real time and notifying students when washers and dryers open up. This feature helps you plan laundry trips efficiently and ensures your clothes remain secure.
 
-# Team Members (not ranked in importance)
+
+
+# Team Members 
+
 - Tyler Bylsma
 - Minji Hur
 - Shemaiah Kamran
